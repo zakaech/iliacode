@@ -1,0 +1,48 @@
+T01	fr	Le tableau de bord affiche un chiffre d'affaires faux quand on filtre par mois de février
+T02	en	Dashboard revenue chart shows duplicated bars when switching between weekly and monthly view
+T03	fr	Impossible de se connecter après la réinitialisation du mot de passe, la page de connexion affiche une erreur 500
+T04	dar	mnin kanzid client jdid f la liste makaytsjelch ta7ta l3onwan dyalo, khassni ndir refresh bach ybane
+T05	fr	L'impression de la facture génère un PDF complètement vide, aucune ligne de produit n'apparaît
+T06	en	Order status stays on pending even after the payment confirmation email is received
+T07	fr	L'export CSV des commandes casse les accents, les caractères é et à sont remplacés par des symboles bizarres
+T08	dar	l barcode scanner makhdamch m3a les produits li 3andhom code twil, kaywqef f nss
+T09	en	Uploading a product photo larger than two megabytes fails with an unknown error message
+T10	fr	La remise en pourcentage n'est pas appliquée sur le total de la facture quand elle dépasse dix pour cent
+T11	en	Search bar returns no results when the product name is typed in uppercase letters
+T12	dar	notifications dyal stock faible kayjiw m3ttlin b youmayn, melli kanchofhom stock ykon sala
+T13	fr	Le champ téléphone du formulaire fournisseur accepte des lettres au lieu de refuser la saisie
+T14	fr	Le bouton enregistrer reste grisé sur le formulaire client même quand tous les champs obligatoires sont remplis
+T15	en	Deleting a supplier does not remove its products from the catalog, they remain orphaned
+T16	dar	kanb9a ndkhol l compte dyali kola mrra, l appli makatb9ach fakra biya wakha n activé se souvenir de moi
+T17	fr	Les totaux du rapport mensuel sont arrondis différemment entre l'écran et le PDF exporté
+T18	en	Session expires after five minutes of inactivity, users are logged out while filling long order forms
+T19	dar	mnin kan7iyed produit mn panier l total makaytbedelch, khass refresh bach yt7seb mzyan
+T20	fr	La pagination de la liste des produits saute de la page deux à la page quatre
+T21	fr	Erreur 500 sur la page de connexion quand on essaie de se connecter juste après avoir réinitialisé le mot de passe
+T22	en	Stock quantity becomes negative when two users confirm the same order at the same time
+T23	dar	page dyal stock katbta bzzaf bach tt7mel, kanbqa kantsna kter mn tlatin seconde
+T24	fr	Le filtre par catégorie oublie la sélection quand on revient depuis la fiche produit
+T25	en	Printing labels from the products page cuts the last character of long product names
+T26	dar	mnin kanclicki 3la imprimer facture kaykhrej liya pdf khawi, walo makaynch hta ligne
+T27	fr	La date de livraison affichée dans l'email de confirmation ne correspond pas à celle choisie
+T28	en	Currency symbol is missing on invoice lines when the amount is above one thousand
+T29	dar	l historique dyal commandes dyal client makaybanch kamel, ghir khemsa lekhrin li kaytle3o
+T30	fr	Caractères accentués illisibles dans le fichier CSV exporté depuis la liste des commandes, problème d'encodage
+T31	en	Duplicate customer records are created when the create button is clicked twice quickly
+T32	fr	Le mot de passe est visible en clair dans l'URL après la validation du formulaire d'inscription
+T33	dar	mnin kan7awel nuploadi tswira dyal produit kbira chwiya kaytle3 liya erreur w maytsjelch walo
+T34	en	Export to Excel ignores the active filters and always exports the whole product list
+T35	en	Product search gives zero results if you type the name in uppercase, lowercase works fine
+T36	fr	Le graphique des ventes ne s'affiche pas sur tablette, la zone reste blanche
+T37	dar	drapeau dyal langue kayrje3 l français kola mrra wakha khtart l3arbiya f les paramètres
+T38	fr	La page du stock met plus de trente secondes à charger, lenteur insupportable sur la liste complète
+T39	en	Email notifications are sent twice for every new order created after midnight
+T40	dar	kanktb f search b darija makayl9a walo, wakha l produit kayn f stock b nefss smiya
+T41	fr	Formulaire client bloqué, bouton enregistrer grisé alors que les champs obligatoires sont bien remplis
+T42	en	Order total is recalculated wrongly after removing a discounted item from the cart
+T43	fr	Le rapport des impayés inclut des factures déjà réglées la semaine dernière
+T44	en	Users get logged out after only five minutes without activity, the session expires way too fast
+T45	dar	mnin kanbdl l quantité f commande deja validée makayb9ach l prix unitaire s7i7
+T46	fr	Le total de la facture ne prend pas en compte les frais de livraison pour les commandes urgentes
+T47	en	Monthly PDF report is truncated after page three when the catalog has many categories
+T48	dar	bouton dyal déconnexion makaykhdemch mn page dyal profil, khass nrje3 l dashboard bach nkhrej
